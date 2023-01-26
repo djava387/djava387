@@ -29,7 +29,7 @@ I am a DevOps Engineer .
 - :zap: In my free time, I'm always on the lookout for the latest advancements in technology and love experimenting with new programming languages
 - :telescope:  So, come take a peek at my GitHub profile and see for yourself how I can bring my passion for technology to your team! Whether it's working on cutting-edge projects, experimenting with new technologies, or sharing my knowledge with others, I'm always up for a good challenge. Let's work together and make something amazing! :boom:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Risper-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
