@@ -57,6 +57,7 @@ I am a DevOps Engineer based in the UK :crown:
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt=" Terraform" width="100" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"  alt=" Kubernetes" width="100" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt=" Vagrant" width="100" height="60"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt=" Linux" width="100" height="60"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" title="Bash" alt=" Bash" width="100" height="60"/>&nbsp; 
 </div>
 
@@ -74,6 +75,7 @@ I am a DevOps Engineer based in the UK :crown:
 ### :hammer_and_wrench: Version Control :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="100" height="60"/>
  
 </div>
 
