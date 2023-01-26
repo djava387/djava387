@@ -33,7 +33,7 @@ I am a DevOps Engineer based in the UK :crown:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: FullStack :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
@@ -48,7 +48,7 @@ I am a DevOps Engineer based in the UK :crown:
 
 ---
 
-### :hammer_and_wrench: DevOps/Cloud :
+### :hammer_and_wrench: DevOps :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="80" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
