@@ -48,7 +48,7 @@ I am a DevOps Engineer .
 
 ---
 
-### :hammer_and_wrench: Devops/Cloud :
+### :hammer_and_wrench: DevOps/Cloud :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="100" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="100" height="60"/>&nbsp;
