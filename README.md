@@ -83,7 +83,6 @@ I am a DevOps Engineer based in the UK :crown:
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=djava387&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djava387&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
 
 ---
