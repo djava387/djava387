@@ -21,7 +21,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a DevOps Engineer based in the UK :crown:
+I am a DevOps Engineer, based in the UK :crown:
 - :telescope: I bring cutting-edge tech skills to the table, honed through training and personal projects
 
 - :seedling: Exploring, researching and  Technical Content Writing.
