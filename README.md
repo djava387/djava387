@@ -33,6 +33,12 @@ I am a DevOps Engineer, based in the UK :crown:
 
 ---
 
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=djava387&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djava387&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
+
+---
+
 ### :hammer_and_wrench: FullStack :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="60"/>&nbsp;
@@ -47,6 +53,7 @@ I am a DevOps Engineer, based in the UK :crown:
 </div>
 
 ---
+
 
 ### :hammer_and_wrench: DevOps :
 <div>
@@ -81,9 +88,5 @@ I am a DevOps Engineer, based in the UK :crown:
 
 ---
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=djava387&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djava387&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
 
----
 
