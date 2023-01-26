@@ -70,7 +70,7 @@ I am a DevOps Engineer, based in the UK :crown:
 
 ---
 
-### :hammer_and_wrench: Testing :
+### :hammer_and_wrench: Test :
 <div>
   <img src="https://junit.org/junit4/images/junit5-banner.png" title="JUnit 5" alt="JUnit 5" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="80" height="60"/>&nbsp;
