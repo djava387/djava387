@@ -24,7 +24,7 @@
 I am a DevOps Engineer, based in England :england:
 - :telescope: I bring cutting-edge tech skills to the table, honed through training and personal projects
 
-- :seedling: Exploring, researching and  Technical Content Writing.
+- :seedling: Exploring, researching and technical writing.
 
 - :zap: In my free time, I'm always on the lookout for the latest advancements in technology and love experimenting with new programming languages
 - :eyes:  So, come take a peek at my GitHub profile and see for yourself how I can bring my passion for technology to your team! Whether it's working on cutting-edge projects, experimenting with new technologies, or sharing my knowledge with others, I'm always up for a good challenge. Let's work together and build something amazing! :boom:
