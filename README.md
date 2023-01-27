@@ -34,10 +34,12 @@ I am a DevOps Engineer, based in England :england:
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=djava387&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djava387&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djava387&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djava387&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djava387&hide=contribs,prs&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
+
+
 
 ---
 
