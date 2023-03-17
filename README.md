@@ -21,7 +21,6 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a DevOps Engineer, based in England :england:
 - :telescope: I bring cutting-edge tech skills to the table, honed through training and personal projects
 
 - :seedling: Exploring, researching and technical writing.
@@ -37,7 +36,7 @@ I am a DevOps Engineer, based in England :england:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djava387&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djava387&hide=contribs,prs&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djava387&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 
