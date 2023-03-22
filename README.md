@@ -28,16 +28,7 @@
 - :zap: In my free time, I'm always on the lookout for the latest advancements in technology and love experimenting with new programming languages
 - :eyes:  So, come take a peek at my GitHub profile and see for yourself how I can bring my passion for technology to your team! Whether it's working on cutting-edge projects, experimenting with new technologies, or sharing my knowledge with others, I'm always up for a good challenge. Let's work together and build something amazing! :boom:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Risper-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
----
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djava387&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djava387&hide=contribs,prs&layout=compact&theme=vision-friendly-dark)](https://github.com/djava387/github-readme-stats)
-
-
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Risper-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url
 
 
 ---
